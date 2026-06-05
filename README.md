@@ -15,7 +15,7 @@
 
 - 🔭 Currently building **Turki Platform** — a personal cybersecurity & career operations platform
 - 🛡️ Passionate about defensive cybersecurity, SIEM systems, and threat detection
-- 💻 Building full-stack applications with **JavaScript / Node.js / Python**
+- 💻 Building full-stack applications with **JavaScript / Java / Node.js / Python / SQL**
 - 🌱 Always learning and exploring new security techniques and modern web tools
 - 📫 Reach me at: **turkiabdullah3-dev** on GitHub
 
