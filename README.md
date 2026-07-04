@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=SOC+%26+DFIR+Analyst;Incident+Response+%7C+CompTIA+Security%2B;SIEM+Triage+%26+Digital+Forensics" alt="Typing SVG" />
 
-Riyadh, Saudi Arabia &nbsp;|&nbsp; tka2cy@gmail.com &nbsp;|&nbsp; +966568342560 &nbsp;|&nbsp; turki20.sa
+Riyadh, Saudi Arabia &nbsp;|&nbsp; tka2cy@gmail.com &nbsp;|&nbsp; +966568342560 &nbsp;|&nbsp; [turki20.sa](https://turki20.sa/)
 
 </div>
 
