@@ -1,8 +1,6 @@
 <div align="center">
 
-<img width="675" alt="banner" src="./_ (5).jpeg" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Turki%20Abdullah%20Almuraykhi&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+<img src="./banner.svg" width="100%" alt="banner" />
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=SOC+%26+DFIR+Analyst;Incident+Response+%7C+CompTIA+Security%2B;SIEM+Triage+%26+Digital+Forensics" alt="Typing SVG" />
 
